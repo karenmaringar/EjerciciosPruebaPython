@@ -25,6 +25,7 @@ else:
         print(f"debes pagar. descuento 20%:{descuento20}")
     elif cantidad > 20:
         print(f"debes pagar. descuento 10%:{descuento10}")
+        print("gracias por tu compra")
 
     
 
